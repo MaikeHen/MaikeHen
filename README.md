@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MaikeHen
-- 👀 I’m interested in new skills
+- 👀 I don´t really know what I´m doing yet
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on coding bootcamp europe
-- 📫 How to reach me
+- 💞️ I’m looking forward to coding bootcamp europe
 
 <!---
 MaikeHen/MaikeHen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
