@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaikeHen
-- 👀 So eager to learn to code
-- 🌱 Startet in 11/22
+- 👀 This is just the beginning
+- 🌱 Startet coding in 11/22
 - 💞️ Attendee at coding bootcamps europe
 
 <!---
